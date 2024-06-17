@@ -13,12 +13,13 @@ I will also occasionally share my **diary**, **favorite music**, **travel storie
 
 # Introduction
 ## Name
-Yechan Jun
+**Yechan Jun**
 ## Made in
-Korea
+**Korea**
 ## MBTI
-ENFP(become INFP when I work)
+**ENFP**(become INFP when I work)
 ## Studies
 International Media, Communication, and Tourism Studies in **Hokkaido University**
 ## Loves
 **Sapporo**, **People**, and **Music**.
+

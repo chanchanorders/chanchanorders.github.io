@@ -13,7 +13,7 @@ I will also occasionally share my **diary**, **favorite music**, **travel storie
 
 # Introduction
 ## Name
-**Yechan Jun**
+**Yechan Jun**, People call me **CHANCHAN**
 ## Made in
 **Korea**
 ## MBTI
@@ -22,4 +22,3 @@ I will also occasionally share my **diary**, **favorite music**, **travel storie
 International Media, Communication, and Tourism Studies in **Hokkaido University**
 ## Loves
 **Sapporo**, **People**, and **Music**.
-

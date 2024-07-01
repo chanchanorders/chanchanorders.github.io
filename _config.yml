@@ -3,5 +3,5 @@ title: The homepage of chanchan
 description: encyclopedia of culture
 plugins:
   - jemoji
-  url: "https://chanchanorders.github.io"
+url: "https://chanchanorders.github.io"
 markdown: kramdown

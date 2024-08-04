@@ -32,12 +32,29 @@ Occasionally, I'll also share:
 
 ## 🙋‍♂️ About Me
 
-```mermaid
-graph TD
-    A[Yechan Jun<br>CHANCHAN] --> B[Origin: 🇰🇷 Korea]
-    A --> C[MBTI: ENFP<br>INFP when working]
-    A --> D[Studies: 🎓 International Media,<br>Communication, and Tourism Studies<br>at Hokkaido University]
-    A --> E[Loves: 🏙️ Sapporo,<br>👥 People, 🎶 Music]
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" colspan="2"><strong>Yechan Jun (CHANCHAN)</strong></td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Origin:</strong></td>
+      <td align="left">🇰🇷 Korea</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>MBTI:</strong></td>
+      <td align="left">ENFP (INFP when working)</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Studies:</strong></td>
+      <td align="left">🎓 International Media, Communication, and Tourism Studies at Hokkaido University</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Loves:</strong></td>
+      <td align="left">🏙️ Sapporo, 👥 People, 🎶 Music</td>
+    </tr>
+  </table>
+</div>
 
 💖 Thank you for joining me on this journey! 💖
 

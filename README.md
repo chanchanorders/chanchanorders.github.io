@@ -14,7 +14,7 @@ Thank you for visiting **my blog**! I'm just an ordinary person trying to naviga
 
 <div align="center">
 
-![My World](https://github.com/chanchanorders/world/assets/119837724/718e4d1a-4dff-4b4c-b52c-d8249de4bfd6)
+![My World](/assets/images/IMG_2007.jpg)
 
 </div>
 
@@ -39,7 +39,7 @@ Occasionally, I'll also share:
 
 <div align="center">
 
-![My Journey](https://github.com/chanchanorders/world/assets/119837724/da1a01cd-83ca-41f8-8c38-3a2c086eba39)
+![My Journey](/assets/images/85D9D57A-418C-458C-9D5D-A0780EFFFD95.jpg)
 
 </div>
 
@@ -61,6 +61,7 @@ Occasionally, I'll also share:
 
 ### 💖 Thank you for joining me on this journey! 💖
 
-[Twitter](https://twitter.com/chanchansapporo) • [Instagram](https://instagram.com/chanchan_please_be_happy)
+<a href="https://twitter.com/chanchansapporo" target="_blank"><i class="fab fa-twitter"></i></a> • 
+<a href="https://instagram.com/chanchan_please_be_happy" target="_blank"><i class="fab fa-instagram"></i></a>
 
 </div>

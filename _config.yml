@@ -1,31 +1,23 @@
 # Theme setting
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+- jemoji
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
 
 # Site settings
 title: The homepage of chanchan
 description: encyclopedia of culture
 url: "https://chanchanorders.github.io"
-baseurl: ""
+baseurl: "/world"
 
 # Build settings
 markdown: kramdown
 
-# Plugins
-plugins:
-  - jemoji
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
 # Image settings
 img_path: /assets/images/
-
-# Social media links (optional)
-twitter_username: chanchansapporo
-github_username:  chanchanorders
-
-# Google Analytics (optional)
-# google_analytics: UA-XXXXXXXXX-X
 
 # Exclude files from processing (optional)
 exclude:

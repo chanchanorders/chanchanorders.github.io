@@ -1,7 +1,38 @@
+# Theme setting
 theme: jekyll-theme-cayman
+
+# Site settings
 title: The homepage of chanchan
 description: encyclopedia of culture
+url: "https://chanchanorders.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+
+# Plugins
 plugins:
   - jemoji
-url: "https://chanchanorders.github.io"
-markdown: kramdown
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Image settings
+img_path: /assets/images/
+
+# Social media links (optional)
+twitter_username: your_twitter_username
+github_username:  chanchanorders
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Exclude files from processing (optional)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

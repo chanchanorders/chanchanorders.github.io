@@ -61,6 +61,6 @@ Occasionally, I'll also share:
 
 ### 💖 Thank you for joining me on this journey! 💖
 
-[Twitter](https://twitter.com/yourtwitterhandle) • [Instagram](https://instagram.com/yourinstagramhandle) • [LinkedIn](https://linkedin.com/in/yourlinkedinprofile)
+[Twitter](https://twitter.com/chanchansapporo) • [Instagram](https://instagram.com/chanchan_please_be_happy)
 
 </div>

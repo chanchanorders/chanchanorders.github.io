@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 Welcome to My World! 🌎
+ 🌍 Welcome to My World! 🌎
 
 </div>
 
@@ -12,7 +12,8 @@ Thank you for visiting **my blog**! I'm just an ordinary person trying to naviga
 
 <div align="center">
 
-![My World](assets/images/337293352_546672167581123_2679434228569125864_n.jpg)
+![337293352_546672167581123_2679434228569125864_n](https://github.com/user-attachments/assets/01d0ea47-5c78-4489-ad8d-77136d34e16c)
+
 </div>
 
 ---
@@ -36,7 +37,7 @@ Occasionally, I'll also share:
 
 <div align="center">
 
-![My Journey](assets/images/338357467_3041091626186181_6931119334244208473_n.jpg)
+![338357467_3041091626186181_6931119334244208473_n](https://github.com/user-attachments/assets/aad25b87-f57d-4ce1-864b-3a649d664997)
 
 </div>
 

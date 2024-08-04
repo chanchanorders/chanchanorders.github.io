@@ -63,7 +63,10 @@
     <h2>👋 Hello, Mates!</h2>
     <p>Thank you for visiting <strong>my blog</strong>! I'm just an ordinary person trying to navigate life in this complicated world full of information. This blog is my journey to <strong>learn</strong>, <strong>understand</strong>, and <strong>grow with you</strong> in a time when it's easy to get lost in the flood of news and information.</p>
   </div>
-
+  <div class="photo-gallery">
+    <div class="photo-item">
+      <img src="https://github.com/user-attachments/assets/01d0ea47-5c78-4489-ad8d-77136d34e16c" alt="Photo 1">
+    </div>
   <div class="messages">
     <h2>📝 My Messages</h2>
     <p>Writing is still a challenging task for me, but through this challenge, I hope to <strong>share with you</strong> the world as I understand it.</p>
@@ -83,6 +86,10 @@
       <li>And much more!</li>
     </ul>
   </div>
+  <div class="photo-gallery">
+    <div class="photo-item">
+      <img src="https://github.com/user-attachments/assets/aad25b87-f57d-4ce1-864b-3a649d664997" alt="Photo 2">
+    </div>
 
   <h2>🙋‍♂️ About Me</h2>
   <div class="about-me">

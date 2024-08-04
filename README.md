@@ -34,14 +34,15 @@ Occasionally, I'll also share:
 
 ```mermaid
 graph TD
-    A[Yechan Jun <br> CHANCHAN] --> B[Origin: 🇰🇷 Korea]
-    A --> C[MBTI: ENFP <br> INFP when working]
-    A --> D[Studies: 🎓 International Media, <br> Communication, and Tourism Studies <br> at Hokkaido University]
-    A --> E[Loves: 🏙️ Sapporo, <br> 👥 People, 🎶 Music]
+    A[Yechan Jun<br>CHANCHAN] --> B[Origin: 🇰🇷 Korea]
+    A --> C[MBTI: ENFP<br>INFP when working]
+    A --> D[Studies: 🎓 International Media,<br>Communication, and Tourism Studies<br>at Hokkaido University]
+    A --> E[Loves: 🏙️ Sapporo,<br>👥 People, 🎶 Music]
 
 💖 Thank you for joining me on this journey! 💖
 
 Meet me at
+
 [Instagram](https://www.instagram.com/chanchan_please_be_happy/)
 
 [Twitter](https://x.com/chanchansapporo)

@@ -2,8 +2,6 @@
 
 # 🌍 Welcome to My World! 🌎
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=chanchanorders.world)
-
 </div>
 
 ---
@@ -14,8 +12,7 @@ Thank you for visiting **my blog**! I'm just an ordinary person trying to naviga
 
 <div align="center">
 
-![My World](/assets/images/IMG_2007.jpg)
-
+![My World](assets/images/337293352_546672167581123_2679434228569125864_n.jpg)
 </div>
 
 ---
@@ -39,7 +36,7 @@ Occasionally, I'll also share:
 
 <div align="center">
 
-![My Journey](/assets/images/85D9D57A-418C-458C-9D5D-A0780EFFFD95.jpg)
+![My Journey](assets/images/338357467_3041091626186181_6931119334244208473_n.jpg)
 
 </div>
 
